@@ -34,4 +34,4 @@ async def ada_sampah(ctx, sampah):
     elif sampah in sampah_anorganik:
         await ctx.send('Masukan', sampah, 'ke dalam tempat sampah_anorganik')
 
-bot.run("MTEwNjgxMTk3OTc3Mjk4OTU0MA.GXVFno.CHgSZYR_51Lj1XJ6i1SM_Y8bWoEzBr6atED0AA")
+bot.run("TokenBotDiscord")
